@@ -2,7 +2,8 @@
 defineProps({
   msg: {
     type: String,
-    required: true
+    required: true,
+    hello:yes
   }
 })
 </script>
